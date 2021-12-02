@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import socket,ssl,pprint
+import socket, ssl, pprint
 from socket import AF_INET, SOCK_STREAM
 from ssl import SSLContext, PROTOCOL_TLS_SERVER
 
